@@ -60,9 +60,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laraaa7&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=00D9FF&fire=8B5CF6&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-</div>
 
 <br/>
 
